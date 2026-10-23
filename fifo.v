@@ -1,24 +1,16 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+//////////////////////////////////////////////////////////////////// 
+// FileName:  "Fifo.v" 
+// Author  :  Venkata Ramana Kalapatapu 
+// Company :  Sand Microelectronics Inc. 
+//           (now a part of Synopsys, Inc.), 
+// Profile :  Sand develops Simulation Models, Synthesizable Cores and 
+//           Performance Analysis Tools for Processors, buses and 
+//           memory products.  Sand's products include models for 
+//           industry-standard components and custom-developed models 
+//           for specific simulation environments. 
 // 
-// Create Date: 23.10.2026 04:02:44
-// Design Name: 
-// Module Name: fifo_ptr
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
+////////////////////////////////////////////////////////////////////
 
  
 `define  FWIDTH     32           // Width of the FIFO. 
